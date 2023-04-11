@@ -1,0 +1,27 @@
+ [
+      {
+        "id" : 1,
+        "image": "https://i.ibb.co/CQM9b3F/accounts-1.png",
+        "title": "Software Engineer",
+        "jobs":"300 Jobs Available"
+      },
+      {
+        "id" : 2,
+        "image": "https://i.ibb.co/vhLMgYM/business-1.png",
+        "title": "Data Scientist",
+        "jobs":"100 Jobs Available"
+      },
+      {
+        "id" : 3,
+        "image": "https://i.ibb.co/bPLz67r/chip-1.png",
+        "title": "Product Manager",
+        "jobs":"150 Jobs Available"
+      },
+      {
+        "id" :4,
+        "image": "https://i.ibb.co/42L8Kv6/Frame-1.png",
+        "title": "DevOps Engineer",
+        "jobs":"250 Jobs Available"
+      }
+    ]
+  
