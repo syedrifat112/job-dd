@@ -27,7 +27,7 @@ const Statistics = () => {
       
       
     return (
-        <div className='mt-12'>
+        <div className='mt-20'>
           <ResponsiveContainer width="100%" height={400}>
         <ScatterChart
           margin={{
