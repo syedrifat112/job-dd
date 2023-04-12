@@ -8,7 +8,7 @@ const JobDetails = () => {
     const {addToDb} = useContext(localAPI);
     
     return (
-        <div className="mx-40 flex items-center justify-between my-8">
+        <div className="mx-40 flex items-center justify-between mt-20">
 
 
   <div className="text-left w-1/2">
