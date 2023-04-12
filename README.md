@@ -4,7 +4,8 @@
 
 [Live-link](https://need-job.netlify.app/)
 * In this assignment i create two json file.
-* One file contain job data and second file contain job details .  * Fetch data by using loader.
+* One file contain job data and second file contain job details.  
+* Fetch data by using loader.
 * Create dynamic id by using params.
 * Create context to  pass data in children component .
 * Then add filter in remote job and ontime job
